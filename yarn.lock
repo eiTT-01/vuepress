@@ -6327,6 +6327,10 @@ yallist@^3.0.2:
   version "3.1.1"
   resolved "https://registry.nlark.com/yallist/download/yallist-3.1.1.tgz#dbb7daf9bfd8bac9ab45ebf602b8cbad0d5d08fd"
 
+yarn@^1.22.11:
+  version "1.22.11"
+  resolved "https://registry.nlark.com/yarn/download/yarn-1.22.11.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fyarn%2Fdownload%2Fyarn-1.22.11.tgz#d0104043e7349046e0e2aec977c24be106925ed6"
+
 ylru@^1.2.0:
   version "1.2.1"
   resolved "https://registry.nlark.com/ylru/download/ylru-1.2.1.tgz#f576b63341547989c1de7ba288760923b27fe84f"
